@@ -38,7 +38,21 @@ const ActivityFeedScreen = () => {
           </View>
         </View>
 
-        <View style={styles.pt10}>
+        <View style={{
+        0: "s",
+        1: "t",
+        2: "y",
+        3: "l",
+        4: "e",
+        5: "s",
+        6: ".",
+        7: "p",
+        8: "t",
+        9: "1",
+        10: "0",
+        left: 19,
+        top: 678
+      }}>
           <View style={styles.galleryRow}>
             <View style={styles.columnRow}>
               <View style={styles.smallPostcolumn}>
