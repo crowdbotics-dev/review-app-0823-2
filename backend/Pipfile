@@ -32,4 +32,3 @@ google-cloud-secret-manager = "==2.12.2"
 google-auth = "==2.10.0"
 google-cloud-storage = "==2.5.0"
 pipenv = "*"
-cb-django-articles = {editable = true, path = "./modules/django_articles"}
